@@ -1,0 +1,29 @@
+邮箱：280309453@qq.com
+邮件标题：申请开通音乐App代码权限
+邮件内容：github账号、慕课网订单号（1806151512591785）
+
+安装  npm i element-ui@legacy -S
+
+
+动画过渡：
+
+fade淡入淡出：
+<transition name="el-fade-in-linear"></transition>
+<transition name="el-fade-in"></transition>
+
+zoom缩放 ：
+<transition name="el-zoom-in-center"></transition>
+<transition name="el-zoom-in-top"></transition>
+<transition name="el-zoom-in-bottom"></transition>
+
+collapse展开折叠：
+使用el-collapse-transition组件实现折叠展开效果
+<el-collapse-transiton></el-collapse-transitoin>
+
+
+字体Icon：
+直接通过设置类名为 el-icon-iconName 来使用即可
+
+<i class="el-icon-eadit" title="编辑"></i>
+<i class="el-icon-share" title="分享"></i>
+<i class="el-icon-delete" title="删除"></i>
