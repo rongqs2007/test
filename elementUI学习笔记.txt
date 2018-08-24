@@ -27,3 +27,8 @@ collapse展开折叠：
 <i class="el-icon-eadit" title="编辑"></i>
 <i class="el-icon-share" title="分享"></i>
 <i class="el-icon-delete" title="删除"></i>
+
+骨架屏的实现：
+1、安装  npm i -g lavas
+2、lavas init
+3、选择包含app_shell (包含了骨架屏的功能)
