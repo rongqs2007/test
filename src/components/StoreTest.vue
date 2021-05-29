@@ -1,7 +1,7 @@
 <template>
   <div class="StoreTest">
     count 数据 {{ appShowCount }}
-    <button @click="handleChange">改变数据</button>
+    <button @click="handleChange">改变数据 -- 测试</button>
   </div>
 </template>
 
